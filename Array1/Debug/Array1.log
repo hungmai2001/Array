@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\hung.mai-xuan\source\repos\Array1\Array1\main.cpp(23,16): warning C4101: 'length_b': unreferenced local variable
+C:\Users\hung.mai-xuan\source\repos\Array1\Array1\main.cpp(23,26): warning C4101: 'length_c': unreferenced local variable
+C:\Users\hung.mai-xuan\source\repos\Array1\Array1\main.cpp(23,36): warning C4101: 'length_d': unreferenced local variable
+  Array1.vcxproj -> C:\Users\hung.mai-xuan\source\repos\Array1\Debug\Array1.exe
